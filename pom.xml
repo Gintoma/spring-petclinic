@@ -392,7 +392,6 @@
       </build>
     </profile>
   </profiles>
-
   <profile>
     <id>sonar</id>
     <activation>
